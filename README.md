@@ -1,4 +1,4 @@
-#benchtime
+# benchtime
 
 So you wrote a Rust app, and it is kind of slow. 
 Either in the sense that your software is actually unusable, or you are just procrastinating by prematurely optimizing your code.
